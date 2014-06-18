@@ -1,0 +1,1 @@
+﻿[{"dataTableNum":1,"tableName":"Position","fields":[{"fieldName":"ID","posInRecord":1},{"fieldName":"Longitude","posInRecord":2},{"fieldName":"Latitude","posInRecord":3},{"fieldName":"creationDate","posInRecord":4}]}]
